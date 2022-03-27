@@ -1,6 +1,43 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap" rel="stylesheet">
-<meta charset="utf-8">
-<title>Elliot's cool website</title>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+h1 {
+  color:white;
+  text-decoration-line: overline;
+  text-decoration-color: red;
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size: 60px;
+}
+
+h2{
+  margin-left:50px;
+}
+
+h3{
+  margin-left:50px;
+}
+
+h4{
+  margin-left:30px;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+  margin-right:450px;
+  margin-left: 50px;
+
+}
+
+a:link, a:visited {
+  background-color: #63F7D5;
+  color:#E07C70;
+  padding: 14px 25px;
+  border: 2px solid #63F7D5;
+  padding: 5px;
+  border-radius: 9px;
+
+}
+a:hover {
+  background-color: #63C9F7;
+}
+a:active {
+  background-color: yellow;
+}
