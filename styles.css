@@ -1,14 +1,15 @@
 h1 {
   color:white;
   text-decoration-line: overline;
-  text-decoration-color: red;
+  text-decoration-color: #DB513D;
   font-family: Georgia, serif;
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 h2{
   margin-left:50px;
+  font-size:40px;
 }
 
 h3{
@@ -23,10 +24,17 @@ p {
   font-family: Verdana, sans-serif;
   margin-right:450px;
   margin-left: 50px;
+  font-size: 18px;
 }
 
 img {
   margin-left: 50px;
+}
+
+hr {
+  color:#01133A;
+  margin-left:60px;
+  margin-right:60px;
 }
 
 a:link, a:visited {
@@ -36,6 +44,7 @@ a:link, a:visited {
   border: 2px solid #A4CBE0;
   padding: 5px;
   border-radius: 9px;
+  text-decoration: none;
 
 }
 a:hover {
